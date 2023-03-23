@@ -10,6 +10,9 @@
 %global srcname pyzmq
 %global modname zmq
 
+# xxx
+%global python3_pkgversion 36
+
 Name:           python-zmq
 Version:        18.0.1
 Release:        1%{?dist}
